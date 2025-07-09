@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Eshant Sethi</h1>
 <p align="center">
-  🎓 B.Tech CSE student at SRM Institute of Science and Technology, Chennai <br>
+  🎓 B.Tech CSE Student at SRM Institute of Science and Technology, Chennai <br>
   💻 Passionate about Web Development & Software Engineering <br>
   🚀 Currently learning Full Stack Development
 </p>
